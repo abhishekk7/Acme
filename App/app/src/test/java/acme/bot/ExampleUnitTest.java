@@ -1,4 +1,4 @@
-package aval.chatbot;
+package acme.bot;
 
 import org.junit.Test;
 

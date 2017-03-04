@@ -1,4 +1,4 @@
-package aval.chatbot;
+package acme.bot;
 
 /**
  * Created by avalj on 03/04/17.
