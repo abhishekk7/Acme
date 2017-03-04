@@ -1,4 +1,4 @@
-package aval.chatbot;
+package acme.bot;
 
 import android.content.Context;
 import android.view.LayoutInflater;

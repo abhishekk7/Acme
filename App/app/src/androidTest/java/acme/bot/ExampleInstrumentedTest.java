@@ -1,4 +1,4 @@
-package aval.chatbot;
+package acme.bot;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("aval.chatbot", appContext.getPackageName());
+        assertEquals("acme.bot", appContext.getPackageName());
     }
 }
